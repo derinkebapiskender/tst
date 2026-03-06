@@ -1,2 +1,4 @@
-messages: []
+messages:
+  - role: system
+    content: Say hello
 model: openai/gpt-4o
